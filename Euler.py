@@ -12,7 +12,7 @@ import matplotlib
 #            e^ix = cos(x) + i*sin(x)
 #
 #    where 'e' = 2.718...  (the base of the natural logarithm)
-#          'x' = to degrees of rotation (in pi or radians?)
+#          'x' = degrees of rotation (in pi or radians?)
 #      and 'i' = an imaginary number (sqrt( a negative number )
 #
 # Identity:
